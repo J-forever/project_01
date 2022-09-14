@@ -1,0 +1,4 @@
+#ignore 目录下所有文件
+ignore/
+# js文件
+P105.js
